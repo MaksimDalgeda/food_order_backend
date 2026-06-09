@@ -67,3 +67,7 @@ Allows users to:
 ## Recommendation Service
 
 Generates personalized food recommendations using AI and user activity data.
+
+## Original Repository
+
+https://github.com/Hog-Rider-Inc/hog-backend
